@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(14, 55, 109);
+  margin-top: 20px;
+}
+
+.app{
+  background: rgb(20, 85, 158);
+  width: 300px;
+  margin: auto;
+  color:#fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+.todo
+{
+  border: #fff;
+  border-radius: 5px;
+}
